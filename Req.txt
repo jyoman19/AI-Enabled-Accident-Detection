@@ -1,0 +1,7 @@
+gradio==4.16.0
+imageio==2.33.1
+Pillow==10.0.1
+opencv-python==4.9.0.80
+python-dotenv==1.0.1
+twilio==8.12.0
+ultralytics==8.1.7
