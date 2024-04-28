@@ -10,7 +10,7 @@ Advanced AI framework integrates YOLOv8 for real-time accident detection, Gemini
   - Cutting-edge artificial intelligence technologies are leveraged, with YOLOv8 serving as a state-of-the-art object detection model for real-time accident identification.
   
 - **Data Collection:**
-  - A dual dataset strategy is adopted, utilizing both a primary dataset provided by hackathon organizers and a meticulously curated dataset.
+  - A dual dataset strategy is adopted, utilizing both a Kaggle dataset and a meticulously curated dataset through scraping.
   - The combination of datasets ensures robust model development, enhanced diversity, and comprehensive training for optimal real-world performance.
 
 - **Model Building:**
